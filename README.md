@@ -1,3 +1,4 @@
 ﻿# Doctor Appointment Booking
  
-[Click here] to visit the website live.
+[Click here](https://doctor-appointment-booking-v5i4.onrender.com) to visit the website live.
+
